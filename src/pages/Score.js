@@ -26,7 +26,7 @@ const Score = () => {
         <div className="text-3xl">
           Total Score:{" "}
           <span className="text-[#e9246c] font-bold">
-            {score / 2}/{isAnswered.length}
+            {score}/{isAnswered.length}
           </span>
         </div>
         <div className="flex gap-6 mt-6">
