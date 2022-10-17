@@ -18,7 +18,7 @@ const Score = () => {
       <header>
         <Navbar />
       </header>
-      <main className="flex flex-col items-center justify-center">
+      <main className="flex flex-col items-center justify-center text-center">
         <h2 className="text-4xl font-bold ">Congratulations!</h2>
         <h3 className="text-3xl font-semibold my-6">
           You have completed the assessment.
@@ -45,7 +45,6 @@ const Score = () => {
             </button>
           </Link>
         </div>
-   
       </main>
       <style jsx>
         {`

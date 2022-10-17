@@ -4,15 +4,15 @@
     {
       "category": "General Knowledge",
       "type": "multiple",
-      "difficulty": "medium",
-      "question": "Scotch whisky and Drambuie make up which cocktail?",
-      "options": ["Rusty Nail", "Screwdriver", "Sex on the Beach", "Manhattan"],
-      "correct_answer": "Rusty Nail"
+
+      "question": "We can go for keys when there is possibility that our user could change the data?",
+      "options": ["Keys", "Refs", "Both", "None"],
+      "correct_answer": "Keys"
     },
     {
       "category": "General Knowledge",
       "type": "multiple",
-      "difficulty": "easy",
+
       "question": "What is &quot;dabbing&quot;?",
       "options": ["A dance", "A medical procedure", "A sport", "A language"],
       "correct_answer": "A dance"
@@ -20,28 +20,28 @@
     {
       "category": "General Knowledge",
       "type": "multiple",
-      "difficulty": "hard",
-      "question": "When was &quot;YouTube&quot; founded?",
+
+      "question": "When was YouTube founded?",
       "options": [
-        "February 14, 2005",
         "May 22, 2004",
         "September 12, 2005",
-        "July 19, 2009"
+        "July 19, 2009",
+        "February 14, 2005"
       ],
       "correct_answer": "February 14, 2005"
     },
     {
       "category": "General Knowledge",
       "type": "multiple",
-      "difficulty": "hard",
+
       "question": "The Swedish word &quot;Grunka&quot; means what in English?",
-      "options": ["Thing", "People", "Place", "Pineapple"],
+      "options": ["People", "Thing", "Place", "Pineapple"],
       "correct_answer": "Thing"
     },
     {
       "category": "General Knowledge",
       "type": "multiple",
-      "difficulty": "medium",
+
       "question": "What is the last letter of the Greek alphabet?",
       "options": ["Omega", "Mu", "Epsilon", "Kappa"],
       "correct_answer": "Omega"
@@ -49,20 +49,20 @@
     {
       "category": "General Knowledge",
       "type": "multiple",
-      "difficulty": "easy",
+
       "question": "Who is depicted on the US hundred dollar bill?",
       "correct_answer": "Benjamin Franklin",
       "options": [
-        "Benjamin Franklin",
         "George Washington",
         "Abraham Lincoln",
+        "Benjamin Franklin",
         "Thomas Jefferson"
       ]
     },
     {
       "category": "General Knowledge",
       "type": "multiple",
-      "difficulty": "hard",
+
       "question": "Which one of these Swedish companies was founded in 1943?",
       "options": ["IKEA", "H &amp; M", "Lindex", "Clas Ohlson"],
       "correct_answer": "IKEA"
@@ -70,30 +70,30 @@
     {
       "category": "General Knowledge",
       "type": "multiple",
-      "difficulty": "easy",
+
       "question": "The likeness of which president is featured on the rare $2 bill of USA currency?",
       "options": [
+        "John Quincy Adams",
         "Thomas Jefferson",
         "Martin Van Buren",
-        "Ulysses Grant",
-        "John Quincy Adams"
+        "Ulysses Grant"
       ],
       "correct_answer": "Thomas Jefferson"
     },
     {
       "category": "General Knowledge",
       "type": "multiple",
-      "difficulty": "easy",
-      "question": "When one is &quot;envious&quot;, they are said to be what color?",
-      "options": ["Green", "Red", "Blue", "Yellow"],
+
+      "question": "When one is envious, they are said to be what color?",
+      "options": ["Red", "Blue", "Yellow", "Green"],
       "correct_answer": "Green"
     },
     {
       "category": "General Knowledge",
       "type": "multiple",
-      "difficulty": "easy",
+
       "question": "What are Panama hats made out of?",
-      "options": ["Straw", "Silk", "Hemp", "Flax"],
+      "options": ["Silk", "Straw", "Hemp", "Flax"],
       "correct_answer": "Straw"
     }
   ]
